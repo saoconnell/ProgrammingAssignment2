@@ -1,4 +1,4 @@
-## code location: https://github.com/saoconnell/ProgrammingAssignment2.git
+## code location: https://github.com/saoconnell/ProgrammingAssignment2
 ## 
 ## makeCacheMatrix:
 ##    Create a special that sovles the inverse of a matrix, 
